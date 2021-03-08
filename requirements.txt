@@ -31,6 +31,7 @@ lightdm-gtk-greeter-settings==1.2.1
 lxml==3.5.0
 MarkupSafe==1.1.1
 matplotlib==3.0.3
+ml-python==2.2
 monotonic==1.5
 multidict==4.7.4
 netifaces==0.10.6
